@@ -1,0 +1,28 @@
+.video-wrapper {
+  width: max-content;
+  border: 6px solid white;
+  border-radius: 3rem;
+  margin: 3px;
+  background: gray;
+  display: inline-block;
+  box-shadow: 0 0 0 6px black;
+  margin: 9px;
+  // width: 350px;
+  // height: 450px;
+  padding: 4px;
+  .video-title {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+  }
+
+  .video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 350px;
+    margin: 1rem;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
