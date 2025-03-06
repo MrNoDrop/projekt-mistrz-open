@@ -1,2 +1,1 @@
-# projekt-mistrz-open
-Projekt dla Daniela
+# Projekt Mistrz
